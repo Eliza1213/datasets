@@ -1,0 +1,199 @@
+[
+  {
+    "id": "001",
+    "name": "Zacatecas",
+    "descripcion": "Hermosa ciudad colonial famosa por su arquitectura de cantera rosa, su rica historia minera y su teleférico.",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxVQno9_bRVqVrC2eic9j5GzKfv20gyjZv5_399mRjEZA4-yoN0yw6lxn3t9N2KSVkziIzjbZjw63U0GFTDs4_SVdTyrtQcwFzVSak0nj2jMCNc7mLVU8alBeqLESk2dnPM_x-pKlxif9y=w675-h390-n-k-no",
+    "categorias": {
+      "hoteles": [
+        {"name": "Quinta Real Zacatecas", "descripcion": "Exclusivo y mundialmente famoso hotel de lujo construido alrededor de la emblemática e histórica plaza de toros San Pedro del siglo XIX.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c2/b7/61/quinta-real-zacatecas.jpg?w=400&h=-1&s=1"},
+        {"name": "Hotel Emporio Zacatecas", "descripcion": "Hotel con una ubicación inmejorable frente a la Catedral, ofreciendo una impresionante fachada barroca combinada con confort moderno.", "image": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/166383/photos/78561146_XL/Emporio-Zacatecas-Exterior.jpg?tr=w-680%2Ch-404%2Cfo-auto"},
+        {"name": "Hotel Santa Rita", "descripcion": "Elegante hotel boutique en el centro histórico, ideal para viajeros que buscan arte, confort y tratamientos relajantes en su spa.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/81/3c/c4/hotel-santa-rita.jpg?w=1200&h=700&s=1"},
+        {"name": "Mesón de Jobito", "descripcion": "Un hotel de atmósfera mágica y tradicional, originalmente una vecindad del siglo XIX adaptada para un descanso lleno de historia.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/93/08/42/entrada-principal.jpg?w=1400&h=800&s=1"}
+      ],
+      "restaurantes": [
+        {"name": "Los Dorados de Villa", "descripcion": "Famoso restaurante ambientado en la Revolución Mexicana, célebre por su sazón tradicional y su exquisito asado de boda zacatecano.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f2/6b/c0/photo7jpg.jpg?w=1100&h=-1&s=1"},
+        {"name": "Gorditas Doña Julia", "descripcion": "El rincón gastronómico más popular del estado para disfrutar de las auténticas gorditas zacatecanas rellenas de guisados típicos.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/eb/0f/f2/photo2jpg.jpg?w=1400&h=800&s=1"},
+        {"name": "El Mitote", "descripcion": "Un espacio acogedor en el centro histórico ideal para degustar antojitos mexicanos, café artesanal y postres de la región.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/60/03/1c/gracias-a-tu-preferencia.jpg?w=1400&h=800&s=1"}
+      ],
+      "lugares": [
+        {"name": "Teleférico de Zacatecas", "descripcion": "Un emblemático e histórico recorrido por el cielo zacatecano que conecta el Cerro del Grillo con el Cerro de la Bufa a 85 metros de altura.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/e4/c6/e5/photo0jpg.jpg?w=600&h=600&s=1"},
+        {"name": "Centro Platero", "descripcion": "Hermosa hacienda donde artesanos locales diseñan y elaboran finas piezas de joyería utilizando la tradicional plata pura de la región.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/57/cb/62/centro-platero.jpg?w=500&h=500&s=1"},
+        {"name": "Catedral de Zacatecas", "descripcion": "Joyel de la arquitectura novohispana dedicada a la Virgen de la Asunción, famosa mundialmente por su fachada de cantera rosa labrada.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5e/45/e2/this-is-the-cathedral.jpg?w=600&h=600&s=1"},
+        {"name": "Museo Rafael Coronel", "descripcion": "Establecido en el bellísimo exconvento de San Francisco, resguarda la colección de máscaras mexicanas más grande del mundo.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5d/cd/f4/museo-toma-de-zacatecas.jpg?w=600&h=600&s=1"}
+      ],
+      "gastronomia": [
+        {"name": "Trattoria Stefano", "descripcion": "Destacado restaurante de cocina italiana y fusión que ofrece exquisitas pastas y pizzas cocinadas artesanalmente a la leña.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/04/55/6a/caption.jpg?w=600&h=-1&s=1"}
+      ]
+    }
+  },
+  {
+    "id": "002",
+    "name": "Monterrey",
+    "descripcion": "La Sultana del Norte, una metrópoli vanguardista rodeada de imponentes montañas, líder industrial y gastronómica.",
+    "image": "https://media.istockphoto.com/id/1218113689/es/foto/vista-panor%C3%A1mica-del-cerro-de-la-silla-en-monterrey.webp",
+    "categorias": {
+      "hoteles": [
+        {"name": "Live Aqua Urban Resort", "descripcion": "Un oasis de lujo contemporáneo y sensorial ubicado en la exclusiva zona de San Pedro, ideal para relajación y negocios.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3a/0d/3d/live-aqua-urban-resort.jpg?w=600&h=-1&s=1"},
+        {"name": "Grand Fiesta Americana", "descripcion": "Elegante y moderna torre hotelera en Valle Oriente que destaca por su impecable arquitectura de vanguardia y atención premium.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b2/b4/eb/grand-fiesta-americana.jpg?w=600&h=-1&s=1"},
+        {"name": "Hotel Safi Metropolitan", "descripcion": "Sofisticado hotel situado en el complejo Metropolitan Center, famoso por su espectacular alberca con cascada y vistas panorámicas.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/15/be/ef/safi-royal-luxury-metropolitan.jpg?w=600&h=-1&s=1"},
+        {"name": "Hotel Habita MTY", "descripcion": "Hotel de diseño minimalista e innovador que ofrece una icónica terraza en el piso superior con dos piscinas e imponentes vistas de 360 grados.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/67/62/77/hotel-habita-mty.jpg?w=600&h=-1&s=1"},
+        {"name": "Quinta Real Monterrey", "descripcion": "Hotel con un refinado estilo colonial mexicano y jardines interiores coloniales que contrastan de forma hermosa con la modernidad regia.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/ce/90/a1/quinta-real-monterrey.jpg?w=600&h=-1&s=1"}
+      ],
+      "restaurantes": [
+        {"name": "Jabalina", "descripcion": "Concepto gastronómico vibrante que fusiona mixología de autor de alta escuela con platillos urbanos e internacionales.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d2/88/d3/caption.jpg?w=1100&h=600&s=1"},
+        {"name": "La reina Regia", "descripcion": "Un excelente punto de encuentro tradicional para saborear el auténtico cabrito asado y los cortes de carne emblemáticos del norte.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/0a/62/69/interior.jpg?w=1400&h=800&s=1"},
+        {"name": "El Lindero Mty", "descripcion": "Restaurante dedicado a enaltecer los sabores huastecos tradicionales, famoso por sus deliciosas enchiladas y cecina fresca.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/29/6d/02/bienvenidos.jpg?w=1200&h=-1&s=1"}
+      ],
+      "lugares": [
+        {"name": "Macroplaza", "descripcion": "Una de las plazas más grandes del mundo, corazón ciudadano que conecta importantes museos, teatros y el Faro del Comercio.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4b/ec/c2/img-20190129-100003-largejpg.jpg?w=1000&h=600&s=1"},
+        {"name": "Parque Fundidora", "descripcion": "Enorme parque arqueológico industrial único en su tipo, construido en los antiguos terrenos de una histórica fundición de acero.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ec/db/38/20151231-154228-largejpg.jpg?w=1400&h=-1&s=1"},
+        {"name": "Paseo Santa Lucía", "descripcion": "Un hermoso e icónico canal navegable artificial de 2.5 kilómetros que permite pasear en lancha desde la Macroplaza hasta Fundidora.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/17/77/71/photo6jpg.jpg?w=1800&h=-1&s=1"},
+        {"name": "Grutas de García", "descripcion": "Impresionante espectáculo natural de formaciones rocosas y estalactitas con millones de años de antigüedad, accesibles vía teleférico.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/be/df/ad/photo1jpg.jpg?w=1600&h=900&s=1"},
+        {"name": "Parque Ecológico Chipinque", "descripcion": "Reserva natural protegida en la Sierra Madre Oriental ideal para senderismo, ciclismo de montaña y observación de fauna.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c2/ae/34/caption.jpg?w=1400&h=-1&s=1"}
+      ]
+    }
+  },
+  {
+    "id": "003",
+    "name": "Cancún",
+    "descripcion": "El paraíso del Caribe Mexicano, internacionalmente famoso por sus playas de arena blanca y mar turquesa.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f5/7b/cancun.jpg?w=1800&h=-1&s=1",
+    "categorias": {
+      "hoteles": [
+        {"name": "Nizuc Resort & Spa", "descripcion": "Resort de súper lujo ubicado en un enclave maya exclusivo que combina sofisticación asiática con la calidez del Caribe.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/9b/e1/cb/exterior.jpg?w=1400&h=800&s=1"},
+        {"name": "Hyatt Ziva Cancún", "descripcion": "Un espectacular resort familiar rodeado en tres de sus lados por el mar turquesa, destacando por sus playas privadas y su propia microcervecería.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b6/ea/9f/emporio-cancun.jpg?w=600&h=-1&s=1"},
+        {"name": "Le Blanc Spa Resort", "descripcion": "Suntuoso hotel de clase mundial solo para adultos, aclamado por su playa perfecta, servicio de mayordomo y spa de primer nivel.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/a8/c3/eb/pool.jpg?w=600&h=-1&s=1"},
+        {"name": "Hard Rock Hotel Cancún", "descripcion": "Un hotel vibrante frente al mar con una temática de rock and roll que ofrece entretenimiento sin fin y amenidades de celebridad.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/67/ff/hrhcancun-exterior.jpg?w=600&h=-1&s=1"},
+        {"name": "The Ritz-Carlton Cancun", "descripcion": "Un clásico del hospedaje elegante en el Caribe, famoso por sus restaurantes galardonados y sus icónicas cabañas privadas en la playa.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8a/67/ef/caption.jpg?w=600&h=-1&s=1"}
+      ],
+      "restaurantes": [
+        {"name": "Fred's", "descripcion": "Especialistas en pescados y mariscos frescos de alta calidad, servidos en románticas cabañas ubicadas sobre la laguna Nichupté.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/4f/f6/20/freds-restaurant.jpg?w=1400&h=800&s=1"},
+        {"name": "RosaNegra Cancún", "descripcion": "Restaurante de alta cocina latinoamericana que ofrece una atmósfera de fiesta sofisticada con shows en vivo junto al agua.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/6c/b8/0b/img-20180901-165144-largejpg.jpg?w=800&h=500&s=1"},
+        {"name": "Puerto Santo juárez", "descripcion": "Auténtica experiencia culinaria con mesas sobre la arena, ideal para disfrutar de mariscos frescos al puro estilo caribeño.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/4e/18/58/mochomos-cancun.jpg?w=1400&h=800&s=1"},
+        {"name": "Porfirio's Cancún", "descripcion": "Cocina urbana mexicana reinventada con presentaciones sorprendentes y excelentes tequilas en una espectacular terraza lagunar.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/75/c7/ac/porfirio-s-cancun.jpg?w=1400&h=800&s=1"},
+        {"name": "Du Mexique", "descripcion": "Exclusivo restaurante de autor que fusiona sutilmente las técnicas francesas tradicionales con los sabores y condimentos de la gastronomía mexicana.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/0e/df/5f/harrys-sunset.jpg?w=1400&h=-1&s=1"}
+      ],
+      "lugares": [
+        {"name": "Playa Delfines", "descripcion": "Una de las playas públicas más hermosas e icónicas, famosa por sus espectaculares vistas abiertas y el colorido parador fotográfico de Cancún.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/58/38/6b/el-mirador-playa-del.jpg?w=1800&h=-1&s=1"},
+        {"name": "Coco Bongo Cancún", "descripcion": "Centro nocturno de clase mundial famoso por sus espectaculares shows acrobáticos, tributos musicales y vibrante fiesta continua.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/24/12/6b/dance-dance-dance.jpg?w=1000&h=600&s=1"},
+        {"name": "La Isla", "descripcion": "Un encantador centro comercial al aire libre distribuido entre canales de agua, con tiendas exclusivas, acuario y una rueda de la fortuna gigante.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/10/60/ac/seccion-entertaiment.jpg?w=1400&h=800&s=1"},
+        {"name": "El Parque de las Palapas", "descripcion": "La plaza central más tradicional del Cancún local, perfecta para comer antojitos, comprar artesanías y disfrutar eventos culturales familiares.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/7f/ec/b3/in-the-evening.jpg?w=1400&h=800&s=1"}
+      ]
+    }
+  },
+  {
+    "id": "004",
+    "name": "Guadalajara",
+    "descripcion": "Cuna del Mariachi y el Tequila, una vibrante capital cultural que combina folklore mexicano y tecnología.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/1a/7f/9a/guadalajara.jpg?w=600&h=-1&s=1",
+    "categorias": {
+      "hoteles": [
+        {"name": "Hotel RIU Plaza Guadalajara", "descripcion": "Imponente rascacielos urbano y vanguardista que domina el paisaje tapatío, ideal tanto para viajes de placer como ejecutivos de primer nivel.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/ff/42/b2/la-perla-boutique-bed.jpg?w=600&h=600&s=1"},
+        {"name": "Quinta Real Guadalajara", "descripcion": "Un lujoso refugio tradicional decorado con antigüedades, obras de arte y extensos jardines coloniales empedrados llenos de paz.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d8/57/14/hotel-morales-historical.jpg?w=600&h=600&s=1"},
+        {"name": "Hyatt Regency Andares", "descripcion": "Sofisticado hotel contemporáneo integrado perfectamente al exclusivo centro comercial Andares, el epicentro del estilo de vida moderno de la ciudad.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/8c/57/3b/view.jpg?w=400&h=400&s=1"},
+        {"name": "Villa Ganz Boutique Hotel", "descripcion": "La primera casona boutique de la ciudad, enclavada en la hermosa zona rosa, célebre por su refinado interiorismo y ambiente íntimo.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ff/9a/87/fachada.jpg?w=600&h=600&s=1"},
+        {"name": "Hotel RIU", "descripcion": "Impresionante edificio icónico con una excelente oferta culinaria y un majestuoso sky bar en las alturas que ofrece atardeceres de ensueño.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/1b/40/da/3600-rooftop-bar.jpg?w=600&h=-1&s=1"}
+      ],
+      "restaurantes": [
+        {"name": "Porfirio's Guadalajara", "descripcion": "Homenaje de gala a la comida urbana mexicana, servida con un despliegue visual espectacular y toques creativos gourmet.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e4/9a/3a/porfirio-s-guadalajara.jpg?w=1400&h=800&s=1"},
+        {"name": "Birrieria La 9 Esquinas", "descripcion": "Legendario y colorido rincón tapatío famoso por servir la mejor birria artesanal de chivo horneada en su propio jugo.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/87/94/c4/la-mejor-birria-en-guadalajara.jpg?w=900&h=-1&s=1"},
+        {"name": "La Tequila", "descripcion": "Restaurante con un profundo orgullo culinario dedicado al rescate de las recetas ancestrales de México y con una carta de tequilas excepcional.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5d/3f/63/photo1jpg.jpg?w=1800&h=1000&s=1"},
+        {"name": "Casa Luna Tlaquepaque", "descripcion": "Espacio gastronómico mágico en una antigua casona señorial, donde el arte mexicano, la música viva y la cocina de autor se funden de forma inolvidable.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/b0/04/47/midtown.jpg?w=1400&h=800&s=1"}
+      ],
+      "lugares": [
+        {"name": "Catedral Metropolitana", "descripcion": "Monumento arquitectónico e icono central de Guadalajara, famosa por sus singulares e inconfundibles torres con forma de agujas neogóticas.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/5f/a3/23/guadalajara-cathedral.jpg?w=1800&h=1000&s=1"},
+        {"name": "Hospicio Cabañas", "descripcion": "Patrimonio de la Humanidad que alberga los majestuosos e imponentes murales de José Clemente Orozco, destacando el Hombre de Fuego.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/97/a1/8f/instituto-cultural-cabanas.jpg?w=1000&h=600&s=1"},
+        {"name": "Selva Mágica", "descripcion": "El parque de diversiones más grande de la región occidente de México, ideal para disfrutar de atracciones de adrenalina y diversión familiar.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/af/f2/79/ven-y-conoce-sesamo-la.jpg?w=1800&h=-1&s=1"},
+        {"name": "Andador Independencia", "descripcion": "Colorida calle peatonal en Tlaquepaque flanqueada por finas galerías de arte, talleres artesanales, mariachis y animados cafés.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/89/45/32/tlaquepaque.jpg?w=1800&h=1000&s=1"},
+        {"name": "Bosque Los Colomos", "descripcion": "Un gran pulmón natural urbano en los límites de la ciudad que resguarda veredas arboladas, riachuelos y un auténtico jardín japonés.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f9/a7/87/jardin-japones.jpg?w=1400&h=800&s=1"}
+      ]
+    }
+  },
+  {
+    "id": "005",
+    "name": "Oaxaca",
+    "descripcion": "Corazón cultural de México, mundialmente aclamada por su riqueza étnica, sus coloridas fiestas y su gastronomía tradicional.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/19/3c/bf/photo1jpg.jpg?w=1800&h=-1&s=1",
+    "categorias": {
+      "hoteles": [
+        {"name": "Quinta Real Oaxaca", "descripcion": "Ubicado en el suntuoso Ex Convento de Santa Catalina de Siena del siglo XVI, destaca por mantener intactos sus frescos históricos y patios coloniales.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/7d/8e/be/caption.jpg?w=600&h=-1&s=1"},
+        {"name": "Hotel La Casona De Tina", "descripcion": "Un hermoso y refinado hotel boutique privado famoso por su ambiente sereno, servicio personalizado y exquisito restaurante tradicional interno.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/52/0c/eb/hotel-la-casona-de-tita.jpg?w=600&h=-1&s=1"},
+        {"name": "Hotel Los Amantes", "descripcion": "Hotel boutique vanguardista en el centro histórico, cuya joya principal es una terraza superior con vistas espectaculares de la iglesia de Santo Domingo.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/92/3d/25/habitacion-bellavista.jpg?w=600&h=600&s=1"},
+        {"name": "Casa Oaxaca Hotel", "descripcion": "Una exclusiva casona colonial de solo siete habitaciones redefinida con arte contemporáneo, elegancia minimalista y atención VIP.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/34/17/4b/caption.jpg?w=600&h=-1&s=1"},
+        {"name": "Hotel de la Parra", "descripcion": "Un oasis acogedor y céntrico situado a pocos pasos del Zócalo, ideal para relajarse gracias a su preciosa piscina rodeada de plantas.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/87/ab/9c/welcome-to-nana-vida.jpg?w=600&h=600&s=1"}
+      ],
+      "restaurantes": [
+        {"name": "Criollo", "descripcion": "Proyecto del aclamado chef Enrique Olvera que reinterpreta la gastronomía oaxaqueña mediante un menú de degustación cambiante basado en el mercado local.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a4/55/8c/tezzara.jpg?w=1400&h=800&s=1"},
+        {"name": "Casa Oaxaca El Restaurante", "descripcion": "Bajo la guía del chef Alejandro Ruiz, ofrece una experiencia única de alta cocina con salsas preparadas al momento en tu mesa y terrazas hermosas.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5f/fd/61/comedor.jpg?w=600&h=500&s=1"},
+        {"name": "Alfonsina", "descripcion": "Un tesoro culinario rústico a las afueras de la ciudad, donde la tradición del maíz criollo y los moles familiares alcanzan un nivel magistral.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/53/7d/59/caption.jpg?w=1400&h=-1&s=1"},
+        {"name": "Origen", "descripcion": "Cocina contemporánea oaxaqueña a cargo del reconocido chef Rodolfo Castellanos, quien exalta los productos locales con técnicas internacionales.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/cf/e2/bf/espacio-abierto-para.jpg?w=1400&h=800&s=1"}
+      ],
+      "lugares": [
+        {"name": "Templo de Santo Domingo", "descripcion": "Obra cumbre del barroco mexicano decorada en su interior con espectaculares relieves cubiertos en finas láminas de oro puro de 24 quilates.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/95/21/caption.jpg?w=1400&h=800&s=1"},
+        {"name": "Zona Arqueológica de Monte Albán", "descripcion": "Antigua y majestuosa capital del imperio zapoteca edificada sobre una montaña aplanada artificialmente, ofreciendo vistas panorámicas grandiosas.", "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/r/32/b5/97/1d/caption.jpg"},
+        {"name": "Museo Textil", "descripcion": "Espacio cultural dedicado a la conservación y difusión de los complejos y coloridos diseños textiles de las diversas regiones del estado.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/f0/be/d2/museo-textil-de-oaxaca.jpg?w=1800&h=1000&s=1"},
+        {"name": "Mercado 20 de Noviembre", "descripcion": "El epicentro gastronómico local por excelencia, famoso por su 'pasillo de las carnes asadas' lleno de tasajo, cecina, chorizo y un humo delicioso.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/1a/25/7e/photo1jpg.jpg?w=1000&h=-1&s=1"},
+        {"name": "Zócalo de Oaxaca", "descripcion": "Corazón de la vida pública de la ciudad, una plaza arbolada ideal para caminar, escuchar música de banda en vivo y observar artesanos.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cd/d0/e5/church.jpg?w=1800&h=1000&s=1"}
+      ]
+    }
+  },
+  {
+    "id": "006",
+    "name": "Ciudad de México",
+    "descripcion": "Una de las metrópolis más grandes del mundo, llena de museos prehispánicos, historia colonial y vibrante vida urbana.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/33/f3/96/caption.jpg?w=1800&h=-1&s=1",
+    "categorias": {
+      "hoteles": [
+        {"name": "The Ritz-Carlton CDMX", "descripcion": "Suntuoso hotel de gran altura sobre Paseo de la Reforma, ofreciendo ventanales de piso a techo con vistas espectaculares del Castillo de Chapultepec.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/bc/15/8e/interior.jpg?w=600&h=-1&s=1"},
+        {"name": "Four Seasons Reforma", "descripcion": "Hospedaje de lujo clásico estructurado alrededor de un hermoso patio interior estilo hacienda, ofreciendo un oasis de paz en plena avenida principal.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b4/2e/f1/courtyard.jpg?w=600&h=-1&s=1"},
+        {"name": "Gran Hotel de la CDMX", "descripcion": "Joyel arquitectónico de estilo Art Nouveau en el Zócalo, célebre por su monumental vitral Tiffany y su elegante elevador antiguo.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/5e/5c/41/gran-hotel-de-la-ciudad.jpg?w=600&h=-1&s=1"},
+        {"name": "Hotel Downtown", "descripcion": "Hotel boutique de diseño industrial chic ubicado en un magnífico palacio colonial del siglo XVII en el centro histórico, con una gran piscina en la azotea.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/92/ff/d1/downtown-mexico.jpg?w=600&h=-1&s=1"},
+        {"name": "Sofitel Mexico City", "descripcion": "Elegancia francesa moderna fusionada con el orgullo mexicano, con una impresionante piscina interior climatizada en el piso 38.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/10/72/ec/facade-night.jpg?w=600&h=-1&s=1"}
+      ],
+      "restaurantes": [
+        {"name": "Pujol", "descripcion": "Aclamado restaurante del chef Enrique Olvera, considerado uno de los mejores del mundo, famoso por su icónico mole madre de mil días.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bf/45/ad/pujol.jpg?w=600&h=-1&s=1"},
+        {"name": "Quintonil", "descripcion": "Alta cocina mexicana contemporánea dirigida por Jorge Vallejo, enfocada en resaltar los ingredientes de los huertos locales con técnicas vanguardistas.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9b/b8/49/quintonil.jpg?w=600&h=-1&s=1"},
+        {"name": "Contramar", "descripcion": "El restaurante de mariscos más codiciado de la colonia Roma, legendario por su extraordinario pescado a la talla bicolor.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/fc/1d/15/restaurante-contramar.jpg?w=600&h=-1&s=1"},
+        {"name": "El Cardenal", "descripcion": "Un pilar de la cocina mexicana tradicional, famoso por sus desayunos abundantes con chocolate caliente batido y nata fresca.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/23/ee/b2/el-cardenal.jpg?w=600&h=-1&s=1"},
+        {"name": "Taquería El Califa", "descripcion": "Un clásico contemporáneo de la CDMX para disfrutar de excelentes tacos de gaonera, pastores bien sazonados y costras de queso.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/17/84/c2/taqueria-el-califa.jpg?w=600&h=-1&s=1"}
+      ],
+      "lugares": [
+        {"name": "Palacio de Bellas Artes", "descripcion": "Majestuoso recinto cultural de mármol blanco, famoso por su espectacular domo y por resguardar invaluables murales de los grandes maestros de México.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/32/f5/de/dscn0175-largejpg.jpg?w=1800&h=1000&s=1"},
+        {"name": "Castillo de Chapultepec", "descripcion": "El único castillo real construido en todo el continente americano, testigo de la historia y actual sede del Museo Nacional de Historia.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ee/58/f6/garden-on-the-roof.jpg?w=1800&h=1000&s=1"},
+        {"name": "Basílica de la virgen de Guadalupe", "descripcion": "Uno de los santuarios religiosos más importantes del mundo, visitado anualmente por millones de fieles al pie del cerro del Tepeyac.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/3d/ea/f1/photo0jpg.jpg?w=1800&h=1000&s=1"},
+        {"name": "Zócalo de la Ciudad de Mexico", "descripcion": "La enorme e histórica plaza central del país, rodeada por el Palacio Nacional, la Catedral Metropolitana y vestigios del Templo Mayor.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/53/28/2c/photo1jpg.jpg?w=1400&h=800&s=1"},
+        {"name": "Museo Soumaya", "descripcion": "Espectacular estructura arquitectónica asimétrica recubierta por hexágonos de aluminio, que alberga una inmensa y variada colección de arte europeo y mexicano.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/11/1a/40/img-9239-largejpg.jpg?w=1000&h=600&s=1"}
+      ]
+    }
+  },
+  {
+    "id": "007",
+    "name": "Mérida",
+    "descripcion": "La Ciudad Blanca, distinguida por su paz social, hermosa arquitectura afrancesada y profunda herencia maya.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/20/ea/9e/merida.jpg?w=500&h=-1&s=1",
+    "categorias": {
+      "hoteles": [
+        {"name": "Hacienda Xcanatun", "descripcion": "Una antigua hacienda henequenera del siglo XVIII restaurada con lujo contemporáneo y rodeada de hermosos estanques naturales.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/34/e4/2e/lobby.jpg?w=600&h=-1&s=1"},
+        {"name": "Hotel Rosas & Xocolate", "descripcion": "Hotel de diseño conceptual galardonado, famoso por su fachada color rosa vibrante y amenidades inspiradas en el chocolate prehispánico.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/f9/fe/63/la-capilla-de-hacienda.jpg?w=600&h=600&s=1"},
+        {"name": "Hyatt Regency Mérida", "descripcion": "Elegante hotel corporativo y familiar estratégicamente ubicado cerca de Paseo de Montejo, ideal para un viaje cómodo.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/87/5d/29/ibis-styles-merida-galerias.jpg?w=600&h=-1&s=1"},
+        {"name": "The Wayam Mundo Imperial", "descripcion": "Innovador hotel eco-chic que integra armónicamente vegetación endémica con un diseño moderno de vanguardia.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/6d/44/67/hotel-nh-collection-merida.jpg?w=600&h=600&s=1"},
+        {"name": "Hotel Casa Lecanda", "descripcion": "Una deslumbrante casona residencial del siglo XIX restaurada meticulosamente, destinada exclusivamente a adultos en busca de privacidad.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/69/5f/07/vista-panoramica-de-hyatt.jpg?w=600&h=600&s=1"}
+      ],
+      "restaurantes": [
+        {"name": "Museo de la Gastronomía Yucateca", "descripcion": "Un innovador concepto donde puedes ver el proceso de desentierro de la cochinita pibil antes de disfrutar los sabores tradicionales.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/84/8f/b0/comedor-con-ventanales.jpg?w=1400&h=800&s=1"},
+        {"name": "Querreke", "descripcion": "Cocina que rinde homenaje a los mejores ingredientes de la península combinados creativamente con mixología regional.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/1e/11/42/la-buena-vida.jpg?w=1400&h=800&s=1"},
+        {"name": "Kuuk", "descripcion": "Restaurante de cocina vanguardista e investigación gastronómica que aplica técnicas modernas avanzadas a ingredientes ancestrales mayas.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/7e/6a/ariadna-l-casa-gastronomia.jpg?w=1000&h=800&s=1"},
+        {"name": "Apoala", "descripcion": "Cocina de autor mexicana ubicada en el pintoresco parque de Santa Lucía, destacada por sus toques culinarios oaxaqueños y mariscos.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/5d/3c/c4/el-mejor-restaurante.jpg?w=1000&h=800&s=1"},
+        {"name": "Manjar Blanco", "descripcion": "Pequeño y acogedor rincón recomendado por reconocidos chefs internacionales por preparar el queso relleno más auténtico de Mérida.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bd/a5/04/barra-interior.jpg?w=1000&h=800&s=1"}
+      ],
+      "lugares": [
+        {"name": "Paseo de Montejo", "descripcion": "La avenida más hermosa y señorial de Mérida, flanqueada por majestuosas e históricas mansiones de estilo afrancesado de la época porfiriana.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c6/a0/87/photo1jpg.jpg?w=1800&h=1000&s=1"},
+        {"name": "Catedral de San Ildefonso", "descripcion": "La catedral más antigua de la América continental, imponente estructura construida con piedras extraídas de templos mayas prehispánicos.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/dd/fe/3f/merida-cathedral.jpg?w=1800&h=1000&s=1"},
+        {"name": "Plaza Grande", "descripcion": "La plaza central arbolada de la ciudad, ideal para descansar en sus famosas bancas tú y yo mientras contemplas el Palacio de Gobierno.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d0/bc/ae/plaza-grande.jpg?w=1800&h=1000&s=1"},
+        {"name": "Palacio Cantón", "descripcion": "Mansión porfiriana convertida en el Museo Regional de Antropología de Yucatán, joya arquitectónica de estilo ecléctico.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/bf/f6/cb/fachada-del-palacio-canton.jpg?w=600&h=-1&s=1"},
+        {"name": "Gran Museo del Mundo Maya", "descripcion": "Complejo museográfico galardonado que resguarda una enorme y fabulosa colección de piezas arqueológicas y textiles de la cultura maya.", "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a8/7a/62/zona-arqueologica-de.jpg?w=1400&h=800&s=1"}
+      ]
+    }
+  }
+]
